@@ -1,2 +1,6 @@
-# Predict-Loan-Application-Status
-Predicted whether a customer should get his loan approved by the bank or not, based on his/her data.
+# Predict Loan Application Status
+
+* Technology used: Machine Learning
+* Language used: Python
+* Dependent variable: Loan_Status (can have only 2 values: 'Y' or 'N')
+
